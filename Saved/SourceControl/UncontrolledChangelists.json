@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/Assignment9/Content/Map/NewMap.umap",
+				"C:/Unreal/Assignment9/Content/Blueprint/BP_GameModeBase.uasset",
+				"C:/Unreal/Assignment9/Content/Blueprint/BP_PlayerController.uasset",
+				"C:/Unreal/Assignment9/Content/Blueprint/WBP_ChatInputWidget.uasset",
+				"C:/Unreal/Assignment9/Content/Blueprint/BP_GameState.uasset",
+				"C:/Unreal/Assignment9/Content/Blueprint/BP_PlayerState.uasset",
+				"C:/Unreal/Assignment9/Content/Blueprint/WBP_Alarm.uasset",
+				"C:/Unreal/Assignment9/Content/Blueprint/WBP_AlarmText.uasset"
+			]
+		}
+	]
+}
